@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+    margin: 0;
+    padding: 10px;
+    font-family: Verdana;
+    min-width: 400px;
+    margin-right: 10px;
+    max-width: 500px;
+}
+
+input{
+    outline: none;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid #5f9341;
+    font-size: 1.1rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 550;
+}
+
+button{
+    color: white;
+    outline: none;
+    background-color: #5f9341;
+    padding: 10px 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    cursor: pointer;
+    border: 1px solid #5f9341;
+}
+
+#res{
+    color: white;
+}
+
+ul{
+    padding: 0;
+    list-style: none;
+}
+
+li{
+    margin-top: 5px;
+}
+
+li a{
+    color: #5f9341;
+    font-size: 1.1rem;
+    word-wrap: break-word;
+}
+
+#delete-btn{
+    background-color: white;
+    color: #5f9341;
+}
+
+.deleteIcon{
+    position: absolute;
+    right: 0;
+    margin-left: 5px;
+    opacity: 0.5;
+    transition: 0.5s;
+    cursor:pointer;
+}
+
+.deleteIcon:hover{
+    opacity: 1;
+}

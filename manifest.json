@@ -1,0 +1,19 @@
+{
+    "manifest_version":3,
+    "version":"1.0",
+    "name":"Simple Bookmarker",
+    "action":{
+      "default_popup":"index.html"
+  },
+    "icons":{
+        "16":"images/logo16.png",
+        "48":"images/logo48.png",
+        "64":"images/logo64.png",
+        "128":"images/logo128.png"
+    },
+    "description":"A Simple bookmarker.Features include :  Saving custom input, Saving current tab, etc",
+    "permissions":[
+        "tabs"
+    ],
+    "author":"Omkar Bhoir"
+}
