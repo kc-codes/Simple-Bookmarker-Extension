@@ -1,8 +1,8 @@
 # Simple-Bookmarker-Chrome
 
-#### An Simple Bookmarker extension for Chromium based browsers. 
+#### An Simple Bookmarker extension for browsers. 
 
-#### For adding to your Chromium browser follow the below steps : 
+#### For adding to your Chromium based browser follow the below steps : 
 - Clone this repository.
 - In your browser, navigate to manage extensions
 - Then turn on developer mode and click on load unpacked.
