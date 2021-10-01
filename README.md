@@ -1,4 +1,4 @@
-# Simple-Bookmarker-Chrome
+# Simple Bookmarker
 
 #### An Simple Bookmarker extension for browsers. 
 
